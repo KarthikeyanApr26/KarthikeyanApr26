@@ -20,9 +20,9 @@
   ---
  <br>
 
- <p align= "cener"> <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=KarthikeyanS2006&show_icons=true&locale=en&layout=compact" alt="KarthikeyanApr26" /></p>
+ <p align= "cener"> <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=KarthikeyanApr26&show_icons=true&locale=en&layout=compact" alt="KarthikeyanApr26" /></p>
  <a href="https://profile-summary-for-github.com/user/KarthikeyanApr26">
-  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=KarthikeyanS2006&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="KarthikeyanApr26's GitHub stats"/>
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=KarthikeyanApr26&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="KarthikeyanApr26's GitHub stats"/>
  <br>
 
  
